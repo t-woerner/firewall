@@ -70,7 +70,7 @@ service: 'ftp'
 service: [ 'ftp', 'tftp' ]
 ```
 
-## port
+### port
 
 Port or port range or a list of them to add or remove inbound access to. It needs to be in the format ```<port>[-<port>]/<protocol>```.
 
