@@ -141,7 +141,8 @@ Enable or disable the entry.
 state: 'enabled' | 'disabled'
 ```
 
-### Example Playbooks
+Example Playbooks
+-----------------
 
 With this playbook it is possible to make sure the ssh service is enabled in the firewall:
 
